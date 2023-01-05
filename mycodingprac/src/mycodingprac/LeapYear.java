@@ -3,7 +3,6 @@ import java.util.*;
 public class LeapYear {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.println("enter the year: ");
 		Scanner sc = new Scanner(System.in);
 		int year  = sc.nextInt();
